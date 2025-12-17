@@ -1,0 +1,9 @@
+OPENAI_API_KEY=sk-f9b24b3890b044ff9d2dfe55d527c6c3
+OPENAI_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+MODEL_NAME=qwen-vl-max
+
+DATABASE_URL=postgresql://postgres:PMnbbJDZZKNywpFk@115.190.47.220:38888/postgres
+
+UI_TARS_BASE_URL=https://ark.cn-beijing.volces.com/api/v3/
+UI_TARS_API_KEY=dd4d8525-2aec-4159-b693-e7451131a795
+UI_TARS_MODEL=doubao-1-5-ui-tars-250428
